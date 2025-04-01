@@ -3,6 +3,10 @@ A web-based application that translates JSON into a visual Scratch project.
 
 ---
 
+# This is completely work in progress and I cannot guarantee that anything works.
+
+---
+
 ## The way to the Idea.
 Im sure everyone has used [Scratch](https://scratch.mit.edu) in School or at least once in their freetime just for fun. <br>
 I have aswell, so I thought of the Idea of creating a web-based application that uses the [Scratch VM](https://github.com/scratchfoundation/scratch-vm) and [Scratch GUI](https://github.com/scratchfoundation/scratch-gui) libraries to translate JSON code structures into a visual already build Scratch project.
