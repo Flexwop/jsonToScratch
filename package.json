@@ -11,13 +11,14 @@
     "scratch-vm": "^0.5.0",
     "scratch-render": "^0.2.0",
     "scratch-storage": "^2.0.0",
-    "scratch-audio-engine": "^0.2.0",
     "scratch-svg-renderer": "^0.2.0"
   },
   "devDependencies": {
     "webpack": "^5.92.0",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^5.0.4",
-    "html-webpack-plugin": "^5.6.0"
+    "html-webpack-plugin": "^5.6.0",
+    "style-loader": "^4.0.0",
+    "css-loader": "^7.1.2"
   }
 }
