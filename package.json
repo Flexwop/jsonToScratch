@@ -1,0 +1,23 @@
+{
+  "name": "json-to-scratch",
+  "version": "1.0.0",
+  "description": "Convert JSON into a Scratch project",
+  "main": "bundle.js",
+  "scripts": {
+    "start": "webpack serve --mode development",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "scratch-vm": "^0.5.0",
+    "scratch-render": "^0.2.0",
+    "scratch-storage": "^2.0.0",
+    "scratch-audio-engine": "^0.2.0",
+    "scratch-svg-renderer": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.92.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4",
+    "html-webpack-plugin": "^5.6.0"
+  }
+}
